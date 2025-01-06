@@ -110,8 +110,7 @@ const Footer = () => {
             </ListGroup>
           </Col>
           <Col lg='12' className='text-center pt-5'>
-            <p className='copyright'>Copyright {year} , Design and Developed by Dhruv Vatsa.
-             All rights reserved.</p>
+            {/*  */}
           </Col>
         </Row>
       </Container>
