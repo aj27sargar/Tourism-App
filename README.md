@@ -113,5 +113,4 @@ npm start
 
 This project is licensed under the MIT License – feel free to use it for learning or building your own tourism projects!
 
-```
 
